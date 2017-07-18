@@ -1,0 +1,9 @@
+﻿Build started 2017/7/18 11:42:48.
+     1>Project "E:\github\CopyFile\CopyFile\CopyFile.vcxproj" on node 2 (clean target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\CopyFile.lastbuildstate".
+     1>Done Building Project "E:\github\CopyFile\CopyFile\CopyFile.vcxproj" (clean target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04
